@@ -1,6 +1,7 @@
 {
   "name": "minipeel-prep",
   "type": "module",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
