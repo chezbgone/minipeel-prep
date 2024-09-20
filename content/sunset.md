@@ -55,4 +55,4 @@ c0m playbook (2024: Sept 2, Sept 11)
 
 | Stand              | ![[Pasted image 20240920040532.png]] |
 | ------------------ | ------------------------------------ |
-| Aim<br>(err right) | ![[Pasted image 20240920040455.png]] |
+| Aim<br>(err left)  | ![[Pasted image 20240920040455.png]] |
