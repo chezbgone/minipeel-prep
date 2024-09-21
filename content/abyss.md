@@ -71,14 +71,14 @@ title: Abyss
 | Aim   | ![[Pasted image 20240921022831.png]] |
 ### B backsite dart (alt 2, unbreakable from gen)
 
-| Stand | ![[Pasted image 20240921024820.png]]![[Pasted image 20240921024858.png\|300]] |
+| Stand | ![[Pasted image 20240921024820.png]] ![[Pasted image 20240921024858.png\|300]] |
 | ----- | ----------------------------------------------------------------------------- |
 | Aim   | ![[Pasted image 20240921024720.png]]                                          |
 | Lands | ![[Pasted image 20240921025009.png\|400]]                                     |
 
 ### B trips shock (error correcting!!)
 
-| Stand<br>(not strict) | ![[Pasted image 20240921021020.png\|400]]                                |
-| --------------------- | ------------------------------------------------------------------------ |
-| Aim                   | ![[Pasted image 20240921021119.png]]![[Pasted image 20240921021207.png]] |
-| Lands                 | ![[Pasted image 20240921021350.png\|400]]                                |
+| Stand<br>(not strict) | ![[Pasted image 20240921021020.png\|400]]                                 |
+| --------------------- | ------------------------------------------------------------------------- |
+| Aim                   | ![[Pasted image 20240921021119.png]] ![[Pasted image 20240921021207.png]] |
+| Lands                 | ![[Pasted image 20240921021350.png\|400]]                                 |
