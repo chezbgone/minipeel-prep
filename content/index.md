@@ -1,4 +1,5 @@
 ---
 title: Index
 ---
-[[sunset]]
+## [[sunset]]
+## [[abyss]]

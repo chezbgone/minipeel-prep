@@ -1,5 +1,5 @@
 ---
-title: Sunset prep
+title: Sunset
 ---
 ## Defense
 c0m playbook (2024: Sept 2, Sept 11)
@@ -38,6 +38,12 @@ c0m playbook (2024: Sept 2, Sept 11)
 
 ## Attack
 ![[Pasted image 20240920034408.png]]
+### B trip dart
+
+| Stand | ![[Pasted image 20240921034204.png]]      |
+| ----- | ----------------------------------------- |
+| Aim   | ![[Pasted image 20240921033923.png\|500]] |
+
 ### Elbow dart
 
 | Stand | ![[Pasted image 20240920022153.png\|500]] |
@@ -53,6 +59,6 @@ c0m playbook (2024: Sept 2, Sept 11)
 
 ### A postplant ult dart
 
-| Stand              | ![[Pasted image 20240920040532.png]] |
-| ------------------ | ------------------------------------ |
-| Aim<br>(err left)  | ![[Pasted image 20240920040455.png]] |
+| Stand             | ![[Pasted image 20240920040532.png]] |
+| ----------------- | ------------------------------------ |
+| Aim<br>(err left) | ![[Pasted image 20240920040455.png]] |
