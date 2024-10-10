@@ -1,6 +1,7 @@
 ---
 title: Haven
 ---
+Playbook from c0m
 # Defense
 ![[Pasted image 20240927012716.png]]
 ## A lobby insta-shock

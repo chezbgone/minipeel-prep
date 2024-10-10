@@ -1,6 +1,7 @@
 ---
 title: Ascent
 ---
+Playbook from c0m
 # Defense
 ![[Pasted image 20240927031229.png]]
 ## A main ult recon (ask team to fight)

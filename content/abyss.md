@@ -1,6 +1,7 @@
 ---
 title: Abyss
 ---
+Playbook from c0m
 # Defense
 ![[Pasted image 20240921015932.png]]
 ## A heaven to main dart
